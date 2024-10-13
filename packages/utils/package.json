@@ -1,0 +1,9 @@
+{
+  "name": "@repo/utils",
+  "packageManager": "yarn@4.5.0",
+  "private": true,
+  "main": "./dist/src/index.js",
+  "scripts": {
+    "build": "tsc"
+  }
+}
